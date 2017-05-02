@@ -1,0 +1,9 @@
+Main.class
+core/service/ProductService.class
+core/model/ProductRepo.class
+api/consumer/RestConsumer.class
+web/ServletConfiguration.class
+api/producer/ProductRESTController.class
+core/CoreConfiguration.class
+core/model/Product.class
+web/WebConfiguration.class
